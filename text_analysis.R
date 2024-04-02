@@ -6,7 +6,7 @@ library(ggplot2)
 library(PerformanceAnalytics)
 
 #Load required dataframes "reviews" and "movie descriptives" containing the reviews and stats such as "revenue"
-load("/Users/johannaschoellhorn/Desktop/Master/Analysing U.D/Assignments/Data_movie_reviews.RData")
+load("/Users/Desktop/Data_movie_reviews.RData")
 
 
 #How many characters does a review have and does it vary with each movie 
